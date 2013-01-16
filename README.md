@@ -14,7 +14,7 @@ The following directories exist:
 - Green2Red (VBS) -- Green to Red using 100 to 0 value
 - HardDrive (VBS) -- Light to Show HardDrive Activity (by todbot)
 - Outlook (VBA) -- Notify on New Mail and Subject Keyword and Appointement Reminder
-
+- Batch Files -- These are batch files I created to make blink1 blink.
 
 
 
